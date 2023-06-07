@@ -1,0 +1,27 @@
+table{
+	text-align: center;
+	margin: 20px;
+	padding: 10px;
+	
+}
+th,td{
+	width: 200px;
+
+	
+}
+.colors{
+	background-color: lightgray;
+}
+.rows{
+	width: 5px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	padding-left: 5px;
+	padding-right: 5px;
+	text-align: center;
+	background-color: lightgray;
+}
+.headi{
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
